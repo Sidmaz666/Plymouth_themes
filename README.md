@@ -1,5 +1,5 @@
 
-![preview_pentagram](/pentagram/pentagram-0.png)
+<img src="https://github.com/Sidmaz666/Plymouth_themes/blob/main/mob/mob-0.png?raw=true" width="100%">
 
 ## Themes
 
